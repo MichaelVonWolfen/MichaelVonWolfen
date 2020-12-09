@@ -13,6 +13,6 @@ My name is Michael and at the momment I am working on my custom page
 
 <img allign = "center" alt = "MichaelVonWOlfen's GitHub Stats" src = "https://github-readme-stats-git-master.michaelvonwolfen.vercel.app/api?username=MichaelVonWolfen&show_icons=true&theme=onedark&count_private=true" />
 
----
+### Spotify Playing 🎧
 
 [![Spotify](https://my-spotify-widget.vercel.app/api/spotify)](https://open.spotify.com/user/mihai.stoica98)
