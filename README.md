@@ -15,4 +15,4 @@ My name is Michael and at the momment I am working on my custom page
 
 ---
 
-[![Spotify](https://https://novatorem.michaelvonwolfen.vercel.app/api/spotify)](https://open.spotify.com/user/mihai.stoica98)
+[![Spotify](https://my-spotify-widget.vercel.app/api/spotify)](https://open.spotify.com/user/mihai.stoica98)
