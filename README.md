@@ -32,10 +32,12 @@
 
 [![Spotify](https://my-spotify-widget.vercel.app/api/spotify)](https://open.spotify.com/user/mihai.stoica98)
 
-# Cosing stats
+# Coding stats
 
 <!--START_SECTION:waka-->
+
 ```text
 No Activity tracked this Week
 ```
+
 <!--END_SECTION:waka-->
