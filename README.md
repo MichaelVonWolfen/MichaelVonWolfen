@@ -32,7 +32,7 @@
 
 [![Spotify](https://my-spotify-widget.vercel.app/api/spotify)](https://open.spotify.com/user/mihai.stoica98)
 
-# Shit
+# Cosing stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
