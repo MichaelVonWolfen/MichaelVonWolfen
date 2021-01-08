@@ -36,6 +36,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+SQL          5 mins          █████████████▒░░░░░░░░░░░   53.60 % 
+JavaScript   5 mins          ███████████▓░░░░░░░░░░░░░   46.40 % 
 ```
 <!--END_SECTION:waka-->
