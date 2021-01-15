@@ -36,7 +36,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-SQL          37 mins         █████████████████████▓░░░   87.22 % 
-JavaScript   5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+SQL          31 mins         ████████████████████████▓   98.98 % 
 ```
 <!--END_SECTION:waka-->
