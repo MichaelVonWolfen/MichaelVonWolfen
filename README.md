@@ -36,6 +36,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-SQL          31 mins         ████████████████████████▓   98.98 % 
+
 ```
 <!--END_SECTION:waka-->
