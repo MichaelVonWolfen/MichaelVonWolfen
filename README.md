@@ -160,6 +160,10 @@ src="https://github-readme-stats-git-master.michaelvonwolfen.vercel.app/api?user
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown     1 hr 21 mins    █████████████▓░░░░░░░░░░░   54.16 % 
+JavaScript   57 mins         █████████▓░░░░░░░░░░░░░░░   38.18 % 
+SQL          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+JSX          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
 <!--END_SECTION:waka-->
