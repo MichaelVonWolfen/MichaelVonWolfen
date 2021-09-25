@@ -29,7 +29,7 @@
 <h3>Connect with me:</h3>
 <p>
     <a href="https://linkedin.com/in/mihaistoica98" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihaistoica98" width="40" height="30"/>
+        <img src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin Image" width="40" height="30"/>
     </a>
 </p>
 
