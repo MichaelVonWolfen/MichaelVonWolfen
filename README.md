@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">A passionate web developer from Romania</h3>
+<h1>Hi 👋, I'm Michael</h1>
+<h3>A passionate web developer from Romania</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelvonwolfen&label=Profile%20views&color=0e75b6&style=flat" alt="michaelvonwolfen" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=michaelvonwolfen&label=Profile%20views&color=0e75b6&style=flat" alt="michaelvonwolfen" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaelvonwolfen" alt="michaelvonwolfen" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaelvonwolfen" alt="michaelvonwolfen" /></a> </p>
 
 - 🔭 I’m currently working on **a BCI interface**
 
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **You saw this!**
 - Projects:
-    
+
 | Name | Link | Technologies Used| Description|Purpose|
 |------|------|--------------|------------|---|
 | Project Beauty| [Repository](https://github.com/MichaelVonWolfen/Front-End-Projects) | HTML, SCSS, JAVASCRIPT|A set of smaller projects that consist only of beautifully crafted frontend-experiences|Incresing my knowledge about CSS, HTML and JS|
@@ -26,16 +26,15 @@
 |Golden Gate|[Repository](https://github.com/MichaelVonWolfen/Golden-Gate)| C# |An algoritm whose purpose is to create a representation off the San Francisco [Golden Gate](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Golden_Gate_Bridge_Dec_15_2015_by_D_Ramey_Logan.jpg/1000px-Golden_Gate_Bridge_Dec_15_2015_by_D_Ramey_Logan.jpg) based on a vector of random numbers received | Testing my ability to adapt based on a small amount of information |
 |College Projects|[Repository](https://github.com/MichaelVonWolfen/College-Projects)|C| A repository containing a CLI text editor and a GPS localization program done in the first year of college| Better understaning of the C programming language and of the data structures that are the backbown of modern programming languages| 
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/mihaistoica98" target="blank"
-    ><img
-      align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihaistoica98" width="40" height="30"/></a>
+<h3>Connect with me:</h3>
+<p>
+    <a href="https://linkedin.com/in/mihaistoica98" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihaistoica98" width="40" height="30"/>
+    </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3>Languages and Tools:</h3>
+<p>
   <a href="https://angular.io" target="_blank">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
   <a href="https://www.arduino.cc/" target="_blank">
@@ -138,7 +137,6 @@
 
 <p>
   &nbsp;<img
-    align="center"
     src="https://github-readme-stats.vercel.app/api?username=michaelvonwolfen&show_icons=true&locale=en"
     alt="michaelvonwolfen"
   />
@@ -146,8 +144,7 @@
 
 # Stats
 
-<img
-allign="center"
+<img allign="center"
 alt="MichaelVonWOlfen's GitHub Stats"
 src="https://github-readme-stats-git-master.michaelvonwolfen.vercel.app/api?username=MichaelVonWolfen&show_icons=true&theme=onedark&count_private=true"
 />
@@ -159,7 +156,4 @@ src="https://github-readme-stats-git-master.michaelvonwolfen.vercel.app/api?user
 # Coding stats
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
