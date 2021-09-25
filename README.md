@@ -156,4 +156,11 @@ src="https://github-readme-stats-git-master.michaelvonwolfen.vercel.app/api?user
 # Coding stats
 
 <!--START_SECTION:waka-->
+```text
+Markdown     1 hr 21 mins    ███████████▓░░░░░░░░░░░░░   46.36 % 
+JavaScript   1 hr 14 mins    ██████████▓░░░░░░░░░░░░░░   42.04 % 
+CSS          7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+SQL          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+JSX          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+```
 <!--END_SECTION:waka-->
