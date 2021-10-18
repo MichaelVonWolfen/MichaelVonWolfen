@@ -157,10 +157,10 @@ src="https://github-readme-stats-git-master.michaelvonwolfen.vercel.app/api?user
 
 <!--START_SECTION:waka-->
 ```text
-Other        80 hrs 8 mins   ████████████████████████░   95.92 % 
-JavaScript   1 hr 3 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-SCSS         43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-TeX          35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-CSS          33 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Other        83 hrs 5 mins   █████████████████████████   99.42 % 
+SCSS         15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+CSS          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+HTML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 <!--END_SECTION:waka-->
