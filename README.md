@@ -158,7 +158,7 @@ src="https://github-readme-stats-git-master.michaelvonwolfen.vercel.app/api?user
 <!--START_SECTION:waka-->
 
 ```text
-Other            28 hrs 42 mins  ████████████████████░░░░░   79.35 %
+Other            22 hrs 13 mins  █████████████████▒░░░░░░░   68.79 %
 ```
 
 <!--END_SECTION:waka-->
