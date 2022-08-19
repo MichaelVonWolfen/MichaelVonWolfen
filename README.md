@@ -5,7 +5,7 @@
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaelvonwolfen" alt="michaelvonwolfen" /></a> </p>
 
-- 🔭 I’m currently working on **a BCI interface**
+- 🔭 I’m currently working on **volunteering projects as an IT**
 
 - 🌱 I’m currently learning **Angular**
 
